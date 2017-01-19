@@ -1,2 +1,2 @@
 React + Redux TodoList
-https://georgelima.github.io/react-start/
+https://georgelima.github.io/react-redux-todo/
